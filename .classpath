@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="C:/Users/Mark/RSCWorkspace/RS2 Test Bot/lib/asm-3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark/RSCWorkspace/RS2 Test Bot/lib/asm-analysis-3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark/RSCWorkspace/RS2 Test Bot/lib/asm-commons-3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark/RSCWorkspace/RS2 Test Bot/lib/asm-tree-3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark/RSCWorkspace/RS2 Test Bot/lib/asm-util-3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark/RSCWorkspace/RS2 Test Bot/lib/asm-xml-3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Mark/Desktop/bcel-5.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
